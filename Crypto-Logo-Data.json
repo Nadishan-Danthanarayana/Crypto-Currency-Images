@@ -1,0 +1,154 @@
+{
+  "cryptocurrencies": [
+    {
+      "name": "Bitcoin",
+      "symbol": "BTCUSDT",
+      "image": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETHUSDT",
+      "image": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "name": "Binance Coin",
+      "symbol": "BNBUSDT",
+      "image": "https://cryptologos.cc/logos/bnb-bnb-logo.png"
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRPUSDT",
+      "image": "https://cryptologos.cc/logos/xrp-xrp-logo.png"
+    },
+    {
+      "name": "Cardano",
+      "symbol": "ADAUSDT",
+      "image": "https://cryptologos.cc/logos/cardano-ada-logo.png"
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOLUSDT",
+      "image": "https://cryptologos.cc/logos/solana-sol-logo.png"
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGEUSDT",
+      "image": "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
+    },
+    {
+      "name": "Polkadot",
+      "symbol": "DOTUSDT",
+      "image": "https://cryptologos.cc/logos/polkadot-new-dot-logo.png"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "MATICUSDT",
+      "image": "https://cryptologos.cc/logos/polygon-matic-logo.png"
+    },
+    {
+      "name": "Litecoin",
+      "symbol": "LTCUSDT",
+      "image": "https://cryptologos.cc/logos/litecoin-ltc-logo.png"
+    },
+    {
+      "name": "Shiba Inu",
+      "symbol": "SHIBUSDT",
+      "image": "https://cryptologos.cc/logos/shiba-inu-shib-logo.png"
+    },
+    {
+      "name": "Avalanche",
+      "symbol": "AVAXUSDT",
+      "image": "https://cryptologos.cc/logos/avalanche-avax-logo.png"
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINKUSDT",
+      "image": "https://cryptologos.cc/logos/chainlink-link-logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNIUSDT",
+      "image": "https://cryptologos.cc/logos/uniswap-uni-logo.png"
+    },
+    {
+      "name": "Stellar",
+      "symbol": "XLMUSDT",
+      "image": "https://cryptologos.cc/logos/stellar-xlm-logo.png"
+    },
+    {
+      "name": "Cosmos",
+      "symbol": "ATOMUSDT",
+      "image": "https://cryptologos.cc/logos/cosmos-atom-logo.png"
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMRUSDT",
+      "image": "https://cryptologos.cc/logos/monero-xmr-logo.png"
+    },
+    {
+      "name": "Ethereum Classic",
+      "symbol": "ETCUSDT",
+      "image": "https://cryptologos.cc/logos/ethereum-classic-etc-logo.png"
+    },
+    {
+      "name": "VeChain",
+      "symbol": "VETUSDT",
+      "image": "https://cryptologos.cc/logos/vechain-vet-logo.png"
+    },
+    {
+      "name": "Filecoin",
+      "symbol": "FILUSDT",
+      "image": "https://cryptologos.cc/logos/filecoin-fil-logo.png"
+    },
+    {
+      "name": "TRON",
+      "symbol": "TRXUSDT",
+      "image": "https://cryptologos.cc/logos/tron-trx-logo.png"
+    },
+    {
+      "name": "Algorand",
+      "symbol": "ALGOUSDT",
+      "image": "https://cryptologos.cc/logos/algorand-algo-logo.png"
+    },
+    {
+      "name": "Hedera",
+      "symbol": "HBARUSDT",
+      "image": "https://cryptologos.cc/logos/hedera-hbar-logo.png"
+    },
+    {
+      "name": "Near Protocol",
+      "symbol": "NEARUSDT",
+      "image": "https://cryptologos.cc/logos/near-protocol-near-logo.png"
+    },
+    {
+      "name": "Aptos",
+      "symbol": "APTUSDT",
+      "image": "https://cryptologos.cc/logos/aptos-apt-logo.png"
+    },
+    {
+      "name": "Arbitrum",
+      "symbol": "ARBUSDT",
+      "image": "https://cryptologos.cc/logos/arbitrum-arb-logo.png"
+    },
+    {
+      "name": "Optimism",
+      "symbol": "OPUSDT",
+      "image": "https://cryptologos.cc/logos/optimism-ethereum-op-logo.png"
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUIUSDT",
+      "image": "https://cryptologos.cc/logos/sui-sui-logo.png"
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJUSDT",
+      "image": "https://cryptologos.cc/logos/injective-inj-logo.png"
+    },
+    {
+      "name": "Pepe",
+      "symbol": "PEPEUSDT",
+      "image": "https://cryptologos.cc/logos/pepe-pepe-logo.png"
+    }
+  ]
+}
