@@ -52,44 +52,148 @@
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/info/logo.png"
     },
     {
-      "name": "",
-      "symbol": "",
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "description": "A decentralized finance (DeFi) aggregator that automatically moves funds between lending protocols to maximize yield for users.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+    },
+    {
+      "name": "Bitcoin Dominance",
+      "symbol": "BTCDOM",
+      "description": "A metric representing Bitcoin's market capitalization as a percentage of the total cryptocurrency market cap, often traded as an index.",
       "image": ""
     },
     {
-      "name": "",
-      "symbol": "",
+      "name": "Paxos Gold",
+      "symbol": "PAXG",
+      "description": "A gold-backed stablecoin where each token represents one fine troy ounce of London Good Delivery gold stored in Paxos vaults.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png"
+    },
+    {
+      "name": "Maker",
+      "symbol": "MKR",
+      "description": "The governance token of MakerDAO, used to manage the DAI stablecoin system and vote on protocol changes.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    },
+    {
+      "name": "DeFi Index",
+      "symbol": "DEFI",
+      "description": "An index token that tracks the performance of a basket of decentralized finance tokens, providing diversified DeFi exposure.",
       "image": ""
     },
     {
-      "name": "",
-      "symbol": "",
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "description": "A peer-to-peer electronic cash system created as a Bitcoin fork in 2017, focusing on faster transactions and lower fees.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/bitcoincash/info/logo.png"
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "description": "A decentralized machine learning network that creates a peer-to-peer marketplace for artificial intelligence.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x77E06c9eCCf2E797fd462A92B6D7642EF85b0A44/logo.png"
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "description": "A privacy-focused cryptocurrency that uses zero-knowledge proofs to enable shielded transactions with optional transparency.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/zcash/info/logo.png"
+    },
+    {
+      "name": "Monero",
+      "symbol": "XMR",
+      "description": "A privacy-centric cryptocurrency that uses ring signatures and stealth addresses to provide untraceable transactions.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/monero/info/logo.png"
+    },
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "description": "A decentralized lending protocol that allows users to lend and borrow cryptocurrencies without intermediaries.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+    },
+    {
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "description": "A peer-to-peer cryptocurrency created as a 'lite' version of Bitcoin with faster block generation and a different hashing algorithm.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/litecoin/info/logo.png"
+    },
+    {
+      "name": "Dash",
+      "symbol": "DASH",
+      "description": "A cryptocurrency focused on fast, private transactions with features like InstantSend and PrivateSend.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/dash/info/logo.png"
+    },
+    {
+      "name": "Giggle Academy",
+      "symbol": "GIGGLE",
+      "description": "A cryptocurrency token associated with educational or entertainment purposes.",
       "image": ""
     },
     {
-      "name": "",
-      "symbol": "",
+      "name": "Quant",
+      "symbol": "QNT",
+      "description": "The token powering Overledger, a blockchain operating system that enables interoperability between different blockchains.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x4a220E6096B25EADb88358cb44068A3248254675/logo.png"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "description": "A decentralized perpetual futures exchange token with high-performance trading capabilities.",
       "image": ""
     },
     {
-      "name": "",
-      "symbol": "",
-      "image": ""
+      "name": "Compound",
+      "symbol": "COMP",
+      "description": "The governance token of Compound Protocol, a decentralized lending platform on Ethereum.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
     },
     {
-      "name": "",
-      "symbol": "",
-      "image": ""
+      "name": "Tellor",
+      "symbol": "TRB",
+      "description": "A decentralized oracle network that provides secure off-chain data to smart contracts on Ethereum.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0/logo.png"
     },
     {
-      "name": "",
-      "symbol": "",
-      "image": ""
+      "name": "Bitcoin SV",
+      "symbol": "BSV",
+      "description": "A Bitcoin Cash fork created in 2018 that aims to restore the original Bitcoin protocol with larger block sizes.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/bitcoinsv/info/logo.png"
     },
     {
-      "name": "",
-      "symbol": "",
-      "image": ""
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "description": "A layer-1 blockchain platform for decentralized applications and custom blockchain networks with high throughput and low latency.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/avalanchec/info/logo.png"
+    },
+    {
+      "name": "Horizen",
+      "symbol": "ZEN",
+      "description": "A privacy-focused blockchain platform with a sidechain architecture enabling decentralized applications.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/zencash/info/logo.png"
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "description": "A decentralized oracle network that connects smart contracts with real-world data, events, and payment systems.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "name": "Ethereum Classic",
+      "symbol": "ETC",
+      "description": "The original Ethereum blockchain that continued after the 2016 DAO hard fork, preserving immutability principles.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/classic/info/logo.png"
+    },
+    {
+      "name": "Ethereum Name Service",
+      "symbol": "ENS",
+      "description": "The governance token for Ethereum Name Service, a decentralized naming system for Ethereum addresses and resources.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png"
+    },
+    {
+      "name": "ApeSwap",
+      "symbol": "BANANA",
+      "description": "The native token of ApeSwap, a decentralized exchange and yield farming platform on multiple chains.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png"
     }
   ]
 }
