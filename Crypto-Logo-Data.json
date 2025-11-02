@@ -44,6 +44,52 @@
       "name": "TRON",
       "symbol": "TRX",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/tron/info/logo.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "description": "Open source platform to write and distribute decentralized applications.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/info/logo.png"
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
+    },
+    {
+      "name": "",
+      "symbol": "",
+      "image": ""
     }
   ]
 }
