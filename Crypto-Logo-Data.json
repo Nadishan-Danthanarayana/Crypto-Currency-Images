@@ -194,6 +194,294 @@
       "symbol": "BANANA",
       "description": "The native token of ApeSwap, a decentralized exchange and yield farming platform on multiple chains.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/smartchain/assets/0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95/logo.png"
+    },
+    {
+    "name": "Origin Protocol",
+    "symbol": "OG",
+    "description": "OG is a fan token that provides exclusive benefits and engagement opportunities for supporters in the esports and gaming community",
+    "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png"
+    },
+    {
+      "name": "Kusama",
+      "symbol": "KSM",
+      "description": "Kusama is a scalable network of specialized blockchains built using Substrate and nearly the same codebase as Polkadot. The network is an experimental development environment for teams who want to move fast and innovate on Kusama, or prepare for deployment on Polkadot.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/kusama/info/logo.png"
+    },
+    {
+      "name": "Prometeus",
+      "symbol": "PROM",
+      "description": "Prometeus is a blockchain platform that provides data privacy and security solutions for businesses. The PROM token is used for governance, staking, and accessing services within the Prometeus ecosystem.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xfc82bb4ba86045Af6F327323a46E80412b91b27d/logo.png"
+    },
+    {
+      "name": "Illuvium",
+      "symbol": "ILV",
+      "description": "Illuvium is an open-world fantasy battle game built on the Ethereum blockchain. ILV is the native token used for in-game achievements, governance via the Illuvium DAO, and staking rewards.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
+    },
+    {
+      "name": "GMX",
+      "symbol": "GMX",
+      "description": "GMX is a decentralized exchange for spot and perpetual trading with up to 100x leverage. It features low fees, transparent Chainlink pricing, and operates on Arbitrum, Avalanche, and Solana networks.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/arbitrum/assets/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
+    },
+    {
+      "name": "MultiversX",
+      "symbol": "EGLD",
+      "description": "MultiversX (formerly Elrond) is a highly scalable blockchain platform using adaptive state sharding technology. EGLD is used for staking, governance, transactions, and smart contract execution with high throughput and low costs.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/elrond/info/logo.png"
+    },
+    {
+      "name": "Metis",
+      "symbol": "METIS",
+      "description": "Metis is an Ethereum Layer 2 rollup platform focused on enabling easy creation of decentralized autonomous companies (DACs). METIS token is used for staking, governance, and transaction fees within the ecosystem.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png"
+    },
+    {
+      "name": "Euler",
+      "symbol": "EUL",
+      "description": "Euler is a decentralized lending protocol on Ethereum that enables permissionless lending and borrowing. EUL is the governance token that allows holders to vote on protocol parameters and upgrades.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b/logo.png"
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "description": "Injective is a decentralized exchange protocol offering cross-chain spot and derivatives trading. INJ token is used for governance, staking, collateral backing, and network security.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30/logo.png"
+    },
+    {
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "description": "Official Trump is a meme cryptocurrency launched in January 2025 featuring imagery of Donald Trump. It is a speculative digital asset not intended as an investment or political campaign tool.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/solana/assets/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN/logo.png"
+    },
+    {
+      "name": "DeXe",
+      "symbol": "DEXE",
+      "description": "DeXe is a decentralized social trading platform where users can copy trading strategies from successful traders. DEXE token is used for governance and to access premium platform features.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png"
+    },
+    {
+      "name": "Bounce",
+      "symbol": "AUCTION",
+      "description": "Bounce is a decentralized auction protocol for token sales and NFT auctions. AUCTION token is used for governance, staking, and accessing premium auction features on the platform.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096/logo.png"
+    },
+    {
+      "name": "River",
+      "symbol": "RIVER",
+      "description": "River is a DeFi protocol focused on liquidity provision and yield farming opportunities. The RIVER token is used for governance and earning rewards within the ecosystem.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x70fC5F49f4E992F1dD66DC8Ce9C9489E05F9e346/logo.png"
+    },
+    {
+      "name": "Enzyme",
+      "symbol": "MLN",
+      "description": "Enzyme (formerly Melon Protocol) is a decentralized asset management platform on Ethereum. MLN is used for governance and to pay fees for creating and managing investment funds on the platform.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png"
+    },
+    {
+      "name": "Evaa Protocol",
+      "symbol": "EVAA",
+      "description": "Evaa Protocol is a decentralized lending and borrowing platform. EVAA token powers the protocol's governance and provides holders with access to platform features and rewards.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x1B23fD2f6d973eD2AE4f3b9B098CafC1476F1a04/logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "description": "Uniswap is a leading decentralized exchange protocol for trading ERC-20 tokens. UNI is the governance token allowing holders to vote on protocol decisions and future upgrades.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    },
+    {
+      "name": "Livepeer",
+      "symbol": "LPT",
+      "description": "Livepeer is a decentralized video streaming network protocol built on Ethereum. LPT is used for staking, network security, and incentivizing video transcoding work on the platform.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x58b6A8A3302369DAEc383334672404Ee733aB239/logo.png"
+    },
+    {
+      "name": "Neo",
+      "symbol": "NEO",
+      "description": "Neo is a blockchain platform designed for building decentralized applications and smart contracts. NEO token is used for governance rights and generating GAS tokens for network operations.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/neo/info/logo.png"
+    },
+    {
+      "name": "SSV Network",
+      "symbol": "SSV",
+      "description": "SSV Network is a decentralized staking infrastructure using distributed validator technology. SSV token is used for payments to node operators and governance of the network protocol.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54/logo.png"
+    },
+    {
+      "name": "Ordinals",
+      "symbol": "ORDI",
+      "description": "ORDI is the first BRC-20 token on the Bitcoin network, representing inscriptions on satoshis. It enables fungible tokens to be created directly on the Bitcoin blockchain.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/bitcoin/assets/bc1pz0qxp0zvcwm8v8k0dy9dqgf7zy0u0fpe3w0rjw2x0j0r0j0u0c0q0z8z8z/logo.png"
+    },
+    {
+      "name": "Venus",
+      "symbol": "XVS",
+      "description": "Venus is a DeFi lending protocol on BNB Chain enabling borrowing, lending, and minting of synthetic stablecoins. XVS is the governance token used for protocol decisions and rewards.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/smartchain/assets/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63/logo.png"
+    },
+    {
+      "name": "Omni Network",
+      "symbol": "OMNI",
+      "description": "Omni Network is a Layer 1 blockchain connecting Ethereum rollups to eliminate liquidity fragmentation. OMNI is used for gas fees, cross-rollup communications, and network staking.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4/logo.png"
+    },
+    {
+      "name": "Story Protocol",
+      "symbol": "IP",
+      "description": "Story Protocol is a blockchain network for programmable IP (intellectual property) management. IP token powers the ecosystem enabling creators to license, remix, and monetize their creative works.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x2f028A3C5e4745e8d1e0D63b577D6045a9f8Ef57/logo.png"
+    },
+    {
+      "name": "Arweave",
+      "symbol": "AR",
+      "description": "Arweave is a decentralized storage network providing permanent data storage with a one-time fee. AR token is used to pay for data storage and reward miners who provide storage capacity.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/arweave/info/logo.png"
+    },
+    {
+      "name": "Fluid",
+      "symbol": "FLUID",
+      "description": "Fluid is a DeFi lending protocol offering optimized capital efficiency. FLUID token is used for governance, rewards distribution, and accessing protocol features.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xC53A0caB6a16C94e27f98e4321D034c0f4A4eCb7/logo.png"
+    },
+    {
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "description": "Internet Computer is a blockchain that extends internet functionality allowing developers to build websites, enterprise systems, and DeFi services. ICP is used for governance, staking, and powering computation.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/internetcomputer/info/logo.png"
+    },
+    {
+      "name": "Moonriver",
+      "symbol": "MOVR",
+      "description": "Moonriver is a companion network to Moonbeam providing Ethereum-compatible smart contract functionality on Kusama. MOVR is used for transaction fees, governance, and collator staking.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/moonriver/info/logo.png"
+    },
+    {
+      "name": "Aptos",
+      "symbol": "APT",
+      "description": "Aptos is a Layer 1 blockchain focused on safety, scalability, and upgradeability using the Move programming language. APT is used for transaction fees, staking, and governance.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/aptos/info/logo.png"
+    },
+    {
+      "name": "Rocket Pool",
+      "symbol": "RPL",
+      "description": "Rocket Pool is a decentralized Ethereum staking protocol allowing anyone to stake ETH with lower minimums. RPL is used as collateral for node operators and governance participation.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xD33526068D116cE69F19A9ee46F0bd304F21A51f/logo.png"
+    },
+    {
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "description": "Pendle is a DeFi protocol enabling tokenization and trading of future yield. PENDLE token is used for governance, staking, and incentivizing liquidity provision on the platform.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png"
+    },
+    {
+      "name": "Cosmos",
+      "symbol": "ATOM",
+      "description": "Cosmos is a network of interconnected blockchains designed to enable interoperability between different chains. ATOM is used for staking to secure the network, governance voting, and transaction fees.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/cosmos/info/logo.png"
+    },
+    {
+      "name": "Vana",
+      "symbol": "VANA",
+      "description": "Vana is a Layer 1 blockchain enabling users to own, govern, and earn from their data. VANA token powers the network's data economy and governance mechanisms.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x8FE815417913A93EA99049DfDfE182458Eb7A940/logo.png"
+    },
+    {
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "description": "Polkadot is a multi-chain protocol enabling different blockchains to transfer messages and value in a trust-free fashion. DOT is used for governance, staking, and bonding new parachains.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/polkadot/info/logo.png"
+    },
+    {
+      "name": "Ripple",
+      "symbol": "XRP",
+      "description": "XRP is a digital asset built for payments, enabling fast and low-cost international money transfers. It powers the RippleNet payment network for financial institutions.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ripple/info/logo.png"
+    },
+    {
+      "name": "Gas",
+      "symbol": "GAS",
+      "description": "GAS is the utility token of the Neo blockchain used to pay for transaction fees and smart contract execution. It is generated by holding NEO tokens.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/neo/assets/GAS/logo.png"
+    },
+    {
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "description": "PancakeSwap is a decentralized exchange on BNB Chain offering token swaps, yield farming, and NFT marketplace. CAKE is used for governance, staking, and earning rewards.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png"
+    },
+    {
+      "name": "Tradoor",
+      "symbol": "TRADOOR",
+      "description": "Tradoor is a decentralized trading platform offering various trading tools and strategies. TRADOOR token provides governance rights and access to premium platform features.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x7D8146cf21e8d7cbe46054e01588207b51198729/logo.png"
+    },
+    {
+      "name": "Movement",
+      "symbol": "M",
+      "description": "Movement is a blockchain network focused on high-performance transaction processing. M token is used for network operations, governance, and staking rewards.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x5D0fa177f206Be08aBdc1c7a1F02a4d1839e3903/logo.png"
+    },
+    {
+      "name": "Render",
+      "symbol": "RENDER",
+      "description": "Render Network is a decentralized GPU rendering platform connecting creators needing compute power with miners. RENDER token is used to pay for rendering services and reward providers.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24/logo.png"
+    },
+    {
+      "name": "Ampleforth Governance",
+      "symbol": "FORTH",
+      "description": "FORTH is the governance token for Ampleforth, an elastic supply cryptocurrency. FORTH holders can vote on protocol upgrades, integrations, and parameter changes.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0/logo.png"
+    },
+    {
+      "name": "MYX Finance",
+      "symbol": "MYX",
+      "description": "MYX Finance is a decentralized perpetual exchange offering leveraged trading. MYX token is used for governance, fee discounts, and staking rewards within the platform.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x08D32b0da63e2C3bcF8019c9c5d849d7a9d791e6/logo.png"
+    },
+    {
+      "name": "Convex Finance",
+      "symbol": "CVX",
+      "description": "Convex Finance is a platform boosting rewards for Curve liquidity providers and CRV stakers. CVX token is used for governance and earning boosted yields from Curve pools.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B/logo.png"
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "description": "NEAR is a Layer 1 blockchain using sharding for scalability and a user-friendly experience. NEAR token is used for transaction fees, staking, and governance participation.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/near/info/logo.png"
+    },
+    {
+      "name": "BinaryX",
+      "symbol": "BNX",
+      "description": "BinaryX is a GameFi platform and metaverse ecosystem on BNB Chain. BNX token is used for governance, in-game utility, and staking rewards across BinaryX games.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/smartchain/assets/0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97/logo.png"
+    },
+    {
+      "name": "Morpho",
+      "symbol": "MORPHO",
+      "description": "Morpho is a lending protocol optimizer that improves rates on existing lending pools. MORPHO token is used for governance and incentivizing participation in the protocol.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x9994E35Db50125E0DF82e4c2dde62496CE330999/logo.png"
+    },
+    {
+      "name": "Qtum",
+      "symbol": "QTUM",
+      "description": "Qtum is a blockchain platform combining Bitcoin's UTXO model with Ethereum smart contracts. QTUM is used for transaction fees, staking, and governance of the network.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/qtum/info/logo.png"
+    },
+    {
+      "name": "Berachain",
+      "symbol": "BERA",
+      "description": "Berachain is an EVM-compatible Layer 1 blockchain using Proof of Liquidity consensus. BERA token is used for gas fees, governance, and incentivizing liquidity provision.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x8D0E73c89D86768e9E59D7C2C4c5c5D5C5C5C5C5/logo.png"
+    },
+    {
+      "name": "Unifi Protocol DAO",
+      "symbol": "UNFI",
+      "description": "Unifi Protocol is a multi-chain DeFi platform bridging blockchains. UNFI is the governance token used for voting on protocol decisions and earning staking rewards.",
+      "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x441761326490cACF7aF299725B6292597EE822c2/logo.png"
     }
   ]
 }
