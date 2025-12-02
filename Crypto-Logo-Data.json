@@ -482,6 +482,31 @@
       "symbol": "UNFI",
       "description": "Unifi Protocol is a multi-chain DeFi platform bridging blockchains. UNFI is the governance token used for voting on protocol decisions and earning staking rewards.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x441761326490cACF7aF299725B6292597EE822c2/logo.png"
+    },
+    {
+    "name": "HomeCoin",
+    "symbol": "HOME",
+    "description": "A deflationary high yield token on the BSC network designed to aid in the reduction of homelessness through weekly payouts.",
+    "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/HOME/HOME.png"
+    },
+    {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "description": "A deflationary memecoin launched on Ethereum as a tribute to the Pepe the Frog internet meme.",
+    "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/PEPE/PEPE.png"
+    },
+    {
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "description": "A stablecoin pegged to the US dollar, designed to provide a stable digital asset for transactions and value storage.",
+    "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/Tether-USDT/Tether-USDT.png"
+    },
+    {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "description": "An Ethereum-based altcoin created as a 'meme coin' inspired by the Shiba Inu dog breed, aspiring to be a Dogecoin alternative.",
+    "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SHIBU/SHIB.png"
     }
   ]
 }
+
