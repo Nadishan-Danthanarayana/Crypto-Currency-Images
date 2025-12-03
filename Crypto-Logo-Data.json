@@ -3,46 +3,55 @@
     {
       "name": "Acala",
       "symbol": "ACA",
+      "description": "A DeFi hub and stablecoin platform built on Polkadot that provides cross-chain liquidity, staking, and decentralized finance tools.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/acala/info/logo.png"
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC",
+      "description": "The first decentralized cryptocurrency, serving as a digital store of value and a peer-to-peer payments network.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/bitcoin/info/logo.png"
     },
     {
       "name": "BNB Beacon Chain",
       "symbol": "BNB",
+      "description": "The original Binance chain that powers fast transactions, token issuance, and the Binance ecosystem.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/binance/info/logo.png"
     },
     {
       "name": "Cardano",
       "symbol": "ADA",
+      "description": "A proof-of-stake blockchain platform focused on sustainability, scalability, and formal verification of smart contracts.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/cardano/info/logo.png"
     },
     {
       "name": "Dogecoin",
       "symbol": "DOGE",
+      "description": "A meme-inspired cryptocurrency created for fun that is known for its large community and low-fee, fast transactions.",
       "image": "https://raw.githubusercontent.com/dogecoin/dogecoin/master/share/pixmaps/dogecoin256.svg"
     },
     {
       "name": "Solana",
       "symbol": "SOL",
+      "description": "A high-performance blockchain designed for decentralized applications and crypto projects, featuring fast throughput and low fees.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/solana/info/logo.png"
     },
     {
       "name": "Sui",
       "symbol": "SUI",
+      "description": "A Layer 1 blockchain optimized for scalability and low-latency transactions to support asset-centric decentralized applications.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/sui/info/logo.png"
     },
     {
       "name": "The Open Network",
       "symbol": "TON",
+      "description": "A fast and scalable blockchain originally developed with Telegram, designed for micro-payments and decentralized apps.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ton/info/logo.png"
     },
     {
       "name": "TRON",
       "symbol": "TRX",
+      "description": "A blockchain platform that focuses on decentralizing content and entertainment applications, enabling high-throughput transactions.",
       "image": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/tron/info/logo.png"
     },
     {
@@ -509,4 +518,5 @@
     }
   ]
 }
+
 
