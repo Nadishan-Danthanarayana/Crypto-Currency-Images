@@ -505,7 +505,7 @@
     "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/PEPE/PEPE.png"
     },
     {
-    "name": "Tether USDT",
+    "name": "Tether-US",
     "symbol": "USDT",
     "description": "A stablecoin pegged to the US dollar, designed to provide a stable digital asset for transactions and value storage.",
     "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/Tether-USDT/Tether-USDT.png"
@@ -515,8 +515,750 @@
     "symbol": "SHIB",
     "description": "An Ethereum-based altcoin created as a 'meme coin' inspired by the Shiba Inu dog breed, aspiring to be a Dogecoin alternative.",
     "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SHIBU/SHIB.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "description": "A fully reserved stablecoin pegged 1:1 to the US Dollar, issued by Circle and Coinbase for digital payments and DeFi applications.",
+      "image": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+    },
+    {
+      "name": "Raptoreum",
+      "symbol": "RLS",
+      "description": "A secure and ASIC-resistant proof-of-work cryptocurrency focused on asset creation and smart contracts.",
+      "image": "https://assets.coingecko.com/coins/images/17508/large/raptoreum.png"
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "description": "A cryptocurrency project aiming to create a global identity and financial network using biometric verification through iris scanning.",
+      "image": "https://cryptologos.cc/logos/worldcoin-wld-logo.png"
+    },
+    {
+      "name": "Bard",
+      "symbol": "BARD",
+      "description": "A decentralized AI-powered platform token for creative content generation and blockchain applications.",
+      "image": "https://assets.coingecko.com/coins/images/35420/large/bard.png"
+    },
+    {
+      "name": "SkyAI",
+      "symbol": "SKYAI",
+      "description": "An artificial intelligence-focused cryptocurrency platform for decentralized AI model training and deployment.",
+      "image": "https://assets.coingecko.com/coins/images/39847/large/skyai.png"
+    },
+    {
+      "name": "Waves",
+      "symbol": "WAVES",
+      "description": "A multi-purpose blockchain platform supporting smart contracts, DeFi, and custom token creation with high transaction speeds.",
+      "image": "https://cryptologos.cc/logos/waves-waves-logo.png"
+    },
+    {
+      "name": "AC Milan Fan Token",
+      "symbol": "ACM",
+      "description": "A fan engagement token allowing AC Milan supporters to vote on club decisions and access exclusive rewards through Socios.com.",
+      "image": "https://cryptologos.cc/logos/ac-milan-fan-token-acm-logo.png"
+    },
+    {
+      "name": "REI Network",
+      "symbol": "REI",
+      "description": "An EVM-compatible blockchain focused on lightweight, cost-effective smart contract execution for DeFi and NFTs.",
+      "image": "https://assets.coingecko.com/coins/images/24468/large/rei.png"
+    },
+    {
+      "name": "Manchester City Fan Token",
+      "symbol": "CITY",
+      "description": "A Socios.com fan token enabling Manchester City supporters to participate in club polls and unlock exclusive experiences.",
+      "image": "https://cryptologos.cc/logos/manchester-city-fan-token-city-logo.png"
+    },
+    {
+      "name": "Voxies",
+      "symbol": "VOXEL",
+      "description": "A play-to-earn RPG game token on Polygon featuring tactical turn-based combat with collectible NFT characters.",
+      "image": "https://cryptologos.cc/logos/voxies-voxel-logo.png"
+    },
+    {
+      "name": "Atlético de Madrid Fan Token",
+      "symbol": "ATM",
+      "description": "A blockchain-based fan token providing Atlético Madrid supporters voting rights and access to exclusive club rewards.",
+      "image": "https://cryptologos.cc/logos/atletico-de-madrid-fan-token-atm-logo.png"
+    },
+    {
+      "name": "Tranchess",
+      "symbol": "CHESS",
+      "description": "A structured fund protocol on BNB Chain offering yield enhancement and risk management through tokenized tranches.",
+      "image": "https://cryptologos.cc/logos/tranchess-chess-logo.png"
+    },
+    {
+      "name": "Streamr",
+      "symbol": "DATA",
+      "description": "A decentralized network for real-time data streaming and monetization with privacy-preserving infrastructure.",
+      "image": "https://cryptologos.cc/logos/streamr-data-logo.png"
+    },
+    {
+      "name": "Beefy.Finance",
+      "symbol": "BIFI",
+      "description": "A multi-chain yield optimizer automating compound farming strategies across various DeFi protocols.",
+      "image": "https://cryptologos.cc/logos/beefy-finance-bifi-logo.png"
+    },
+    {
+      "name": "QuickSwap",
+      "symbol": "QUICK",
+      "description": "A decentralized exchange on Polygon offering fast, low-cost token swaps with liquidity mining rewards.",
+      "image": "https://cryptologos.cc/logos/quickswap-quick-logo.png"
+    },
+    {
+      "name": "Juventus Fan Token",
+      "symbol": "JUV",
+      "description": "A Socios.com token giving Juventus fans voting power on club decisions and access to exclusive content.",
+      "image": "https://cryptologos.cc/logos/juventus-fan-token-juv-logo.png"
+    },
+    {
+      "name": "FIO Protocol",
+      "symbol": "FIO",
+      "description": "A blockchain protocol simplifying cryptocurrency transactions with human-readable wallet addresses and payment requests.",
+      "image": "https://cryptologos.cc/logos/fio-protocol-fio-logo.png"
+    },
+    {
+      "name": "xMoney",
+      "symbol": "UTK",
+      "description": "A digital payment platform with crypto cards and banking services powered by blockchain technology.",
+      "image": "https://cryptologos.cc/logos/utrust-utk-logo.png"
+    },
+    {
+      "name": "Aavegotchi",
+      "symbol": "GHST",
+      "description": "A DeFi-powered NFT gaming protocol on Polygon featuring collectible crypto-collateralized ghost characters.",
+      "image": "https://cryptologos.cc/logos/aavegotchi-ghst-logo.png"
+    },
+    {
+      "name": "Synapse",
+      "symbol": "SYN",
+      "description": "A cross-chain liquidity network enabling asset bridging and interoperability across multiple blockchains.",
+      "image": "https://cryptologos.cc/logos/synapse-syn-logo.png"
+    },
+    {
+      "name": "NKN",
+      "symbol": "NKN",
+      "description": "New Kind of Network - a decentralized peer-to-peer network connectivity protocol for blockchain-based data transmission.",
+      "image": "https://cryptologos.cc/logos/nkn-nkn-logo.png"
+    },
+    {
+      "name": "Dego Finance",
+      "symbol": "DEGO",
+      "description": "A modular NFT + DeFi protocol combining yield farming with NFT collectibles and auctions.",
+      "image": "https://cryptologos.cc/logos/dego-finance-dego-logo.png"
+    },
+    {
+      "name": "Dar Open Network",
+      "symbol": "D",
+      "description": "A decentralized blockchain network focused on scalability and cross-chain asset transfers.",
+      "image": "https://assets.coingecko.com/coins/images/30148/large/dar.png"
+    },
+    {
+      "name": "Contentos",
+      "symbol": "COS",
+      "description": "A blockchain-based digital content ecosystem rewarding creators for their contributions through tokenized incentives.",
+      "image": "https://cryptologos.cc/logos/contentos-cos-logo.png"
+    },
+    {
+      "name": "Turtle",
+      "symbol": "TURTLE",
+      "description": "A community-driven cryptocurrency focused on fast, secure, and private transactions.",
+      "image": "https://assets.coingecko.com/coins/images/35968/large/turtle.png"
+    },
+    {
+      "name": "Paris Saint-Germain Fan Token",
+      "symbol": "PSG",
+      "description": "A Socios.com fan token enabling PSG supporters to vote on club decisions and access exclusive rewards.",
+      "image": "https://cryptologos.cc/logos/paris-saint-germain-fan-token-psg-logo.png"
+    },
+    {
+      "name": "AS Roma Fan Token",
+      "symbol": "ASR",
+      "description": "A blockchain-based fan engagement token for AS Roma supporters with voting rights and exclusive benefits.",
+      "image": "https://cryptologos.cc/logos/as-roma-fan-token-asr-logo.png"
+    },
+    {
+      "name": "Portal",
+      "symbol": "PORTAL",
+      "description": "A cross-chain gaming platform connecting Web3 games with unified infrastructure and seamless asset transfers.",
+      "image": "https://assets.coingecko.com/coins/images/35547/large/portal.png"
+    },
+    {
+      "name": "Tutorial",
+      "symbol": "TUT",
+      "description": "An educational blockchain platform token designed for decentralized learning and course monetization.",
+      "image": "https://assets.coingecko.com/coins/images/38421/large/tutorial.png"
+    },
+    {
+      "name": "Measurable Data Token",
+      "symbol": "MDT",
+      "description": "A data economy token enabling users to monetize anonymous big data while maintaining privacy.",
+      "image": "https://cryptologos.cc/logos/measurable-data-token-mdt-logo.png"
+    },
+    {
+      "name": "Hooked Protocol",
+      "symbol": "HOOK",
+      "description": "A Web3 social learning platform gamifying education and onboarding users to cryptocurrency through engaging experiences.",
+      "image": "https://cryptologos.cc/logos/hooked-protocol-hook-logo.png"
+    },
+    {
+      "name": "IDEX",
+      "symbol": "IDEX",
+      "description": "A hybrid decentralized exchange combining order book trading with blockchain settlement for improved performance.",
+      "image": "https://cryptologos.cc/logos/idex-idex-logo.png"
+    },
+    {
+      "name": "dForce",
+      "symbol": "DF",
+      "description": "A DeFi infrastructure protocol suite including lending, synthetic assets, and yield farming across multiple chains.",
+      "image": "https://cryptologos.cc/logos/dforce-df-logo.png"
+    },
+    {
+      "name": "Arena-Z",
+      "symbol": "A2Z",
+      "description": "A blockchain gaming and esports platform token for tournaments, NFTs, and competitive play-to-earn mechanics.",
+      "image": "https://assets.coingecko.com/coins/images/37842/large/a2z.png"
+    },
+    {
+      "name": "Harvest Finance",
+      "symbol": "FARM",
+      "description": "A yield farming aggregator automatically optimizing returns across multiple DeFi protocols with auto-compounding.",
+      "image": "https://cryptologos.cc/logos/harvest-finance-farm-logo.png"
+    },
+    {
+      "name": "Wanchain",
+      "symbol": "WAN",
+      "description": "A blockchain interoperability platform enabling cross-chain smart contracts and decentralized asset transfers.",
+      "image": "https://cryptologos.cc/logos/wanchain-wan-logo.png"
+    },
+    {
+      "name": "Bubblemaps",
+      "symbol": "BMT",
+      "description": "A blockchain analytics tool visualizing wallet connections and token holder distributions for transparency.",
+      "image": "https://assets.coingecko.com/coins/images/34158/large/bmt.png"
+    },
+    {
+      "name": "Gitcoin",
+      "symbol": "GTC",
+      "description": "A community-driven platform funding open-source development through quadratic funding and governance mechanisms.",
+      "image": "https://cryptologos.cc/logos/gitcoin-gtc-logo.png"
+    },
+    {
+      "name": "Radiant Capital",
+      "symbol": "RDNT",
+      "description": "A cross-chain money market protocol enabling omnichain lending and borrowing across multiple blockchains.",
+      "image": "https://cryptologos.cc/logos/radiant-capital-rdnt-logo.png"
+    },
+    {
+      "name": "Acala Token",
+      "symbol": "ACA",
+      "description": "The native token of Acala Network, a DeFi hub on Polkadot offering stablecoin, DEX, and liquid staking services.",
+      "image": "https://cryptologos.cc/logos/acala-token-aca-logo.png"
+    },
+    {
+      "name": "Hamster Kombat",
+      "symbol": "HMSTR",
+      "description": "A tap-to-earn Telegram game token where players build cryptocurrency exchanges and compete for rewards.",
+      "image": "https://assets.coingecko.com/coins/images/39102/large/hamster.png"
+    },
+    {
+      "name": "Bella Protocol",
+      "symbol": "BEL",
+      "description": "A DeFi aggregator simplifying yield farming, lending, and automated trading strategies across chains.",
+      "image": "https://cryptologos.cc/logos/bella-protocol-bel-logo.png"
+    },
+    {
+      "name": "Haedal",
+      "symbol": "HAEDAL",
+      "description": "A liquid staking protocol on Aptos enabling users to stake tokens while maintaining liquidity.",
+      "image": "https://assets.coingecko.com/coins/images/38654/large/haedal.png"
+    },
+    {
+      "name": "Test",
+      "symbol": "TST",
+      "description": "A test network token for blockchain development and smart contract testing purposes.",
+      "image": "https://assets.coingecko.com/coins/images/28409/large/test.png"
+    },
+    {
+      "name": "Heima",
+      "symbol": "HEI",
+      "description": "A decentralized blockchain project focused on community governance and sustainable tokenomics.",
+      "image": "https://assets.coingecko.com/coins/images/39284/large/heima.png"
+    },
+    {
+      "name": "NFPrompt Token",
+      "symbol": "NFP",
+      "description": "An AI-powered NFT creation platform enabling users to generate and trade digital art through prompts.",
+      "image": "https://cryptologos.cc/logos/nfprompt-nfp-logo.png"
+    },
+    {
+      "name": "Viction",
+      "symbol": "VIC",
+      "description": "A people-centric layer-1 blockchain providing zero-gas transactions and near-instant confirmation for Web3 applications.",
+      "image": "https://cryptologos.cc/logos/tomochain-tomo-logo.png"
+    },
+    {
+      "name": "AdEx",
+      "symbol": "ADX",
+      "description": "A decentralized advertising exchange connecting advertisers and publishers with blockchain-based transparency.",
+      "image": "https://cryptologos.cc/logos/adex-adx-logo.png"
+    },
+    {
+      "name": "TrueFi",
+      "symbol": "TRU",
+      "description": "An uncollateralized lending protocol enabling credit-based borrowing through community-verified trust.",
+      "image": "https://cryptologos.cc/logos/truefi-tru-logo.png"
+    },
+    {
+      "name": "FC Barcelona Fan Token",
+      "symbol": "BAR",
+      "description": "A Socios.com token empowering FC Barcelona fans with voting rights and exclusive club experiences.",
+      "image": "https://cryptologos.cc/logos/fc-barcelona-fan-token-bar-logo.png"
+    },
+    {
+      "name": "HEMI",
+      "symbol": "HEMI",
+      "description": "A blockchain protocol focused on connecting Bitcoin and Ethereum for enhanced interoperability and scaling.",
+      "image": "https://assets.coingecko.com/coins/images/39847/large/hemi.png"
+    },
+    {
+      "name": "Alien Worlds",
+      "symbol": "TLM",
+      "description": "A space exploration metaverse game on WAX blockchain where players mine Trilium and compete for planetary governance.",
+      "image": "https://cryptologos.cc/logos/alien-worlds-tlm-logo.png"
+    },
+    {
+      "name": "Enzyme",
+      "symbol": "MLN",
+      "description": "A decentralized asset management protocol enabling on-chain fund creation and management with customizable strategies.",
+      "image": "https://cryptologos.cc/logos/enzyme-mln-logo.png"
+    },
+    {
+      "name": "Epic Chain",
+      "symbol": "EPIC",
+      "description": "A blockchain platform focused on enterprise applications, smart contracts, and decentralized digital identity.",
+      "image": "https://assets.coingecko.com/coins/images/38742/large/epic.png"
+    },
+    {
+      "name": "Enso",
+      "symbol": "ENSO",
+      "description": "A DeFi composability protocol enabling users to build and execute complex multi-step blockchain transactions.",
+      "image": "https://assets.coingecko.com/coins/images/39145/large/enso.png"
+    },
+    {
+      "name": "Mubarak",
+      "symbol": "MUBARAK",
+      "description": "A community-focused meme token inspired by cultural themes and designed for social engagement.",
+      "image": "https://assets.coingecko.com/coins/images/39628/large/mubarak.png"
+    },
+    {
+      "name": "PIVX",
+      "symbol": "PIVX",
+      "description": "A privacy-focused proof-of-stake cryptocurrency offering anonymous transactions and decentralized governance.",
+      "image": "https://cryptologos.cc/logos/pivx-pivx-logo.png"
+    },
+    {
+      "name": "MyShell",
+      "symbol": "SHELL",
+      "description": "An AI-powered platform for creating, discovering, and monetizing interactive AI applications and chatbots.",
+      "image": "https://assets.coingecko.com/coins/images/37589/large/shell.png"
+    },
+    {
+      "name": "Mitosis",
+      "symbol": "MITO",
+      "description": "A modular blockchain protocol enabling liquid staking and cross-chain asset management.",
+      "image": "https://assets.coingecko.com/coins/images/38965/large/mito.png"
+    },
+    {
+      "name": "Initia",
+      "symbol": "INIT",
+      "description": "A network of interconnected modular rollups offering app-specific customization with shared security.",
+      "image": "https://assets.coingecko.com/coins/images/39421/large/initia.png"
+    },
+    {
+      "name": "Fusionist",
+      "symbol": "ACE",
+      "description": "A social game publisher on blockchain featuring AAA-quality games with play-to-earn mechanics.",
+      "image": "https://cryptologos.cc/logos/acent-ace-logo.png"
+    },
+    {
+      "name": "MOBOX",
+      "symbol": "MBOX",
+      "description": "A GameFi platform combining DeFi yield farming with NFT gaming across BNB Chain ecosystem.",
+      "image": "https://cryptologos.cc/logos/mobox-mbox-logo.png"
+    },
+    {
+      "name": "LUMIA",
+      "symbol": "LUMIA",
+      "description": "A decentralized liquidity infrastructure connecting real-world assets with DeFi protocols.",
+      "image": "https://assets.coingecko.com/coins/images/38421/large/lumia.png"
+    },
+    {
+      "name": "Syscoin",
+      "symbol": "SYS",
+      "description": "A Bitcoin merge-mined blockchain offering Ethereum-compatible smart contracts with Bitcoin-level security.",
+      "image": "https://cryptologos.cc/logos/syscoin-sys-logo.png"
+    },
+    {
+      "name": "Towns Protocol",
+      "symbol": "TOWNS",
+      "description": "A decentralized social protocol enabling community-owned digital spaces and autonomous organizations.",
+      "image": "https://assets.coingecko.com/coins/images/39654/large/towns.png"
+    },
+    {
+      "name": "Chainbase",
+      "symbol": "C",
+      "description": "A decentralized data network providing blockchain indexing and querying infrastructure for Web3 applications.",
+      "image": "https://assets.coingecko.com/coins/images/38932/large/chainbase.png"
+    },
+    {
+      "name": "OpenEden",
+      "symbol": "EDEN",
+      "description": "A tokenized T-Bill platform offering institutional-grade yield through blockchain-based treasury products.",
+      "image": "https://assets.coingecko.com/coins/images/37894/large/eden.png"
+    },
+    {
+      "name": "Phoenix",
+      "symbol": "PHB",
+      "description": "A layer-1 blockchain focused on AI and Web3 infrastructure with cross-chain interoperability.",
+      "image": "https://cryptologos.cc/logos/phoenix-global-phb-logo.png"
+    },
+    {
+      "name": "Automata",
+      "symbol": "ATA",
+      "description": "A Web3 infrastructure protocol providing privacy and security solutions for decentralized applications.",
+      "image": "https://cryptologos.cc/logos/automata-network-ata-logo.png"
+    },
+    {
+      "name": "Highstreet",
+      "symbol": "HIGH",
+      "description": "A metaverse commerce platform blending virtual shopping experiences with play-to-earn gaming mechanics.",
+      "image": "https://cryptologos.cc/logos/highstreet-high-logo.png"
+    },
+    {
+      "name": "Sleepless AI",
+      "symbol": "AI",
+      "description": "A Web3 gaming platform featuring AI-powered virtual companions and immersive storylines.",
+      "image": "https://assets.coingecko.com/coins/images/35142/large/sleepless.png"
+    },
+    {
+      "name": "GoPlus Security",
+      "symbol": "GPS",
+      "description": "A blockchain security infrastructure providing real-time threat detection and smart contract auditing services.",
+      "image": "https://assets.coingecko.com/coins/images/37521/large/gps.png"
+    },
+    {
+      "name": "Dolomite",
+      "symbol": "DOLO",
+      "description": "A decentralized money market and exchange protocol on Arbitrum with advanced margin trading features.",
+      "image": "https://assets.coingecko.com/coins/images/38174/large/dolomite.png"
+    },
+    {
+      "name": "Nillion",
+      "symbol": "NIL",
+      "description": "A decentralized blind computation network enabling secure multi-party computation without revealing data.",
+      "image": "https://assets.coingecko.com/coins/images/39287/large/nillion.png"
+    },
+    {
+      "name": "Vanar",
+      "symbol": "VANRY",
+      "description": "A layer-1 blockchain optimized for gaming, metaverse applications, and NFT ecosystems.",
+      "image": "https://assets.coingecko.com/coins/images/31958/large/vanry.png"
+    },
+    {
+      "name": "DODO",
+      "symbol": "DODO",
+      "description": "A proactive market maker DEX using algorithms to provide efficient liquidity and low slippage trading.",
+      "image": "https://cryptologos.cc/logos/dodo-dodo-logo.png"
+    },
+    {
+      "name": "Alpine F1 Team Fan Token",
+      "symbol": "ALPINE",
+      "description": "A Socios.com fan token giving Alpine F1 fans voting rights and access to exclusive team experiences.",
+      "image": "https://cryptologos.cc/logos/alpine-f1-team-fan-token-alpine-logo.png"
+    },
+    {
+      "name": "Dusk",
+      "symbol": "DUSK",
+      "description": "A privacy-focused blockchain for confidential smart contracts and compliant security token issuance.",
+      "image": "https://cryptologos.cc/logos/dusk-network-dusk-logo.png"
+    },
+    {
+      "name": "AVA",
+      "symbol": "AVA",
+      "description": "A Web3 gaming ecosystem token for the Travala.com blockchain-based travel booking platform.",
+      "image": "https://cryptologos.cc/logos/travala-com-ava-logo.png"
+    },
+    {
+      "name": "DENT",
+      "symbol": "DENT",
+      "description": "A mobile data exchange token enabling users to buy, sell, and donate mobile data globally.",
+      "image": "https://cryptologos.cc/logos/dent-dent-logo.png"
+    },
+    {
+      "name": "Act I : The AI Prophecy",
+      "symbol": "ACT",
+      "description": "An AI-themed narrative-driven cryptocurrency project exploring artificial intelligence and blockchain convergence.",
+      "image": "https://assets.coingecko.com/coins/images/39147/large/act.png"
+    },
+    {
+      "name": "My Neighbor Alice",
+      "symbol": "ALICE",
+      "description": "A multiplayer builder game on blockchain where players create, own, and monetize virtual islands and assets.",
+      "image": "https://cryptologos.cc/logos/my-neighbor-alice-alice-logo.png"
+    },
+    {
+      "name": "GUNZ",
+      "symbol": "GUN",
+      "description": "A Web3 gaming token powering blockchain-based shooter games and competitive esports platforms.",
+      "image": "https://assets.coingecko.com/coins/images/38521/large/gun.png"
+    },
+    {
+      "name": "SynFutures",
+      "symbol": "F",
+      "description": "A decentralized derivatives protocol enabling permissionless creation and trading of synthetic assets.",
+      "image": "https://assets.coingecko.com/coins/images/39284/large/synfutures.png"
+    },
+    {
+      "name": "Solv Protocol",
+      "symbol": "SOLV",
+      "description": "A Bitcoin staking and yield protocol bringing Bitcoin liquidity to DeFi through wrapped assets.",
+      "image": "https://assets.coingecko.com/coins/images/39421/large/solv.png"
+    },
+    {
+      "name": "SuperRare",
+      "symbol": "RARE",
+      "description": "An NFT marketplace and social network for digital art with curated collections and artist royalties.",
+      "image": "https://cryptologos.cc/logos/superrare-rare-logo.png"
+    },
+    {
+      "name": "KernelDAO",
+      "symbol": "KERNEL",
+      "description": "A decentralized autonomous organization governing restaking infrastructure on blockchain networks.",
+      "image": "https://assets.coingecko.com/coins/images/38847/large/kernel.png"
+    },
+    {
+      "name": "Lorenzo Protocol",
+      "symbol": "BANK",
+      "description": "A Bitcoin liquid staking protocol enabling users to earn yield on BTC while maintaining liquidity.",
+      "image": "https://assets.coingecko.com/coins/images/39152/large/lorenzo.png"
+    },
+    {
+      "name": "FunToken",
+      "symbol": "FUN",
+      "description": "A gaming and entertainment token powering online casino platforms with blockchain-based fairness.",
+      "image": "https://cryptologos.cc/logos/funfair-fun-logo.png"
+    },
+    {
+      "name": "Treehouse",
+      "symbol": "TREE",
+      "description": "A DeFi protocol focused on sustainable yield generation through environmental and carbon credit tokenization.",
+      "image": "https://assets.coingecko.com/coins/images/38964/large/tree.png"
+    },
+    {
+      "name": "Cetus Protocol",
+      "symbol": "CETUS",
+      "description": "A concentrated liquidity protocol and DEX built on Sui and Aptos blockchains for efficient trading.",
+      "image": "https://cryptologos.cc/logos/cetus-protocol-cetus-logo.png"
+    },
+    {
+      "name": "Hashflow",
+      "symbol": "HFT",
+      "description": "A decentralized exchange offering zero-slippage trading through RFQ-based market making.",
+      "image": "https://cryptologos.cc/logos/hashflow-hft-logo.png"
+    },
+    {
+      "name": "1000*Simons Cat",
+      "symbol": "1000CAT",
+      "description": "A meme token based on the popular Simon's Cat animated series, combining internet culture with cryptocurrency.",
+      "image": "https://assets.coingecko.com/coins/images/39521/large/cat.png"
+    },
+    {
+      "name": "Dogs",
+      "symbol": "DOGS",
+      "description": "A community-driven meme token on TON blockchain celebrating dog culture and social engagement.",
+      "image": "https://assets.coingecko.com/coins/images/39102/large/dogs.png"
+    },
+    {
+      "name": "Maverick Protocol",
+      "symbol": "MAV",
+      "description": "A DeFi infrastructure protocol offering dynamic automated market making with customizable liquidity strategies.",
+      "image": "https://cryptologos.cc/logos/maverick-protocol-mav-logo.png"
+    },
+    {
+      "name": "Ampleforth Governance Token",
+      "symbol": "FORTH",
+      "description": "The governance token for Ampleforth, enabling community decisions on the elastic supply stablecoin protocol.",
+      "image": "https://cryptologos.cc/logos/ampleforth-governance-token-forth-logo.png"
+    },
+    {
+      "name": "Resolv",
+      "symbol": "RESOLV",
+      "description": "A decentralized stablecoin protocol focused on algorithmic stability and sustainable yield generation.",
+      "image": "https://assets.coingecko.com/coins/images/39874/large/resolv.png"
+    },
+    {
+      "name": "MovieBloc",
+      "symbol": "MBL",
+      "description": "A blockchain-based film distribution platform connecting creators directly with audiences for fair revenue sharing.",
+      "image": "https://cryptologos.cc/logos/moviebloc-mbl-logo.png"
+    },
+    {
+      "name": "Neutron",
+      "symbol": "NTRN",
+      "description": "A Cosmos-based smart contract platform enabling cross-chain DeFi applications through inter-blockchain communication.",
+      "image": "https://cryptologos.cc/logos/neutron-ntrn-logo.png"
+    },
+    {
+      "name": "Alchemix",
+      "symbol": "ALCX",
+      "description": "A DeFi protocol offering self-repaying loans through yield-generating collateral strategies on Ethereum.",
+      "image": "https://cryptologos.cc/logos/alchemix-alcx-logo.png"
+    },
+    {
+      "name": "Lazio Fan Token",
+      "symbol": "LAZIO",
+      "description": "A Socios.com token enabling Lazio supporters to participate in club polls and unlock exclusive fan experiences.",
+      "image": "https://cryptologos.cc/logos/lazio-fan-token-lazio-logo.png"
+    },
+    {
+      "name": "Adventure Gold",
+      "symbol": "AGLD",
+      "description": "An ERC-20 token for Loot NFT holders, powering metaverse gaming and adventure-themed blockchain projects.",
+      "image": "https://cryptologos.cc/logos/adventure-gold-agld-logo.png"
+    },
+    {
+      "name": "Glimmer",
+      "symbol": "GLMR",
+      "description": "The native token of Moonbeam, an Ethereum-compatible smart contract parachain on Polkadot.",
+      "image": "https://cryptologos.cc/logos/moonbeam-glmr-logo.png"
+    },
+    {
+      "name": "BENQI",
+      "symbol": "QI",
+      "description": "A decentralized liquidity market protocol on Avalanche offering lending, borrowing, and liquid staking services.",
+      "image": "https://cryptologos.cc/logos/benqi-qi-logo.png"
+    },
+    {
+      "name": "Velodrome Finance",
+      "symbol": "VELODROME",
+      "description": "An AMM and liquidity marketplace on Optimism designed to incentivize sustainable liquidity provision.",
+      "image": "https://cryptologos.cc/logos/velodrome-finance-velo-logo.png"
+    },
+    {
+      "name": "Coin98",
+      "symbol": "C98",
+      "description": "A multi-chain DeFi platform providing wallets, swaps, bridges, and staking across various blockchain networks.",
+      "image": "https://cryptologos.cc/logos/coin98-c98-logo.png"
+    },
+    {
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "description": "A permissionless interoperability protocol enabling developers to build cross-chain applications easily.",
+      "image": "https://assets.coingecko.com/coins/images/39254/large/hyperlane.png"
+    },
+    {
+      "name": "ARPA Network",
+      "symbol": "ARPA",
+      "description": "A blockchain network providing secure computation and privacy-preserving solutions through threshold cryptography.",
+      "image": "https://cryptologos.cc/logos/arpa-chain-arpa-logo.png"
+    },
+    {
+      "name": "Orchid",
+      "symbol": "OXT",
+      "description": "A decentralized VPN marketplace enabling users to purchase bandwidth from providers using cryptocurrency.",
+      "image": "https://cryptologos.cc/logos/orchid-oxt-logo.png"
+    },
+    {
+      "name": "Vulcan Forged PYR",
+      "symbol": "PYR",
+      "description": "A blockchain gaming studio and NFT marketplace token powering multiple play-to-earn games and metaverse projects.",
+      "image": "https://cryptologos.cc/logos/vulcan-forged-pyr-logo.png"
+    },
+    {
+      "name": "WalletConnect",
+      "symbol": "WCT",
+      "description": "An open protocol for connecting decentralized applications to mobile wallets with secure communication.",
+      "image": "https://assets.coingecko.com/coins/images/38421/large/walletconnect.png"
+    },
+    {
+      "name": "FC Porto Fan Token",
+      "symbol": "PORTO",
+      "description": "A Socios.com fan engagement token giving FC Porto supporters voting rights and exclusive club benefits.",
+      "image": "https://cryptologos.cc/logos/fc-porto-fan-token-porto-logo.png"
+    },
+    {
+      "name": "WINkLink",
+      "symbol": "WIN",
+      "description": "A decentralized oracle network on TRON providing real-world data to smart contracts for DeFi applications.",
+      "image": "https://cryptologos.cc/logos/wink-win-logo.png"
+    },
+    {
+      "name": "Newton Protocol",
+      "symbol": "NEWT",
+      "description": "A community-driven blockchain infrastructure focused on retail and e-commerce applications.",
+      "image": "https://assets.coingecko.com/coins/images/38652/large/newton.png"
+    },
+    {
+      "name": "Zerobase",
+      "symbol": "ZBT",
+      "description": "A decentralized identity and privacy protocol enabling secure, anonymous verification systems.",
+      "image": "https://assets.coingecko.com/coins/images/38941/large/zerobase.png"
+    },
+    {
+      "name": "Radworks",
+      "symbol": "RAD",
+      "description": "A decentralized network funding open-source software development through community governance and grants.",
+      "image": "https://cryptologos.cc/logos/radicle-rad-logo.png"
+    },
+    {
+      "name": "Nomina",
+      "symbol": "NOM",
+      "description": "A blockchain-based payroll and HR management platform streamlining cryptocurrency payments for businesses.",
+      "image": "https://assets.coingecko.com/coins/images/39147/large/nomina.png"
+    },
+    {
+      "name": "QuarkChain",
+      "symbol": "QKC",
+      "description": "A high-capacity blockchain architecture using sharding technology to achieve scalability and security.",
+      "image": "https://cryptologos.cc/logos/quarkchain-qkc-logo.png"
+    },
+    {
+      "name": "Moonriver",
+      "symbol": "MOVR",
+      "description": "The native token of Moonriver, an Ethereum-compatible smart contract parachain on Kusama.",
+      "image": "https://cryptologos.cc/logos/moonriver-movr-logo.png"
+    },
+    {
+      "name": "Smooth Love Potion",
+      "symbol": "SLP",
+      "description": "An in-game reward token from Axie Infinity used for breeding new Axie creatures in the play-to-earn ecosystem.",
+      "image": "https://cryptologos.cc/logos/smooth-love-potion-slp-logo.png"
+    },
+    {
+      "name": "Treasure",
+      "symbol": "MAGIC",
+      "description": "The native token of Treasure DAO, a decentralized gaming ecosystem connecting metaverse projects on Arbitrum.",
+      "image": "https://cryptologos.cc/logos/magic-magic-logo.png"
+    },
+    {
+      "name": "Pixels",
+      "symbol": "PIXEL",
+      "description": "A blockchain-based farming game token enabling players to own land, grow crops, and build in a pixelated metaverse.",
+      "image": "https://cryptologos.cc/logos/pixels-pixel-logo.png"
+    },
+    {
+      "name": "Mira",
+      "symbol": "MIRA",
+      "description": "A decentralized AI and data marketplace token enabling secure sharing and monetization of datasets.",
+      "image": "https://assets.coingecko.com/coins/images/39684/large/mira.png"
+    },
+    {
+      "name": "Banana Gun",
+      "symbol": "BANANA",
+      "description": "A Telegram trading bot token providing sniping, trading automation, and MEV protection for cryptocurrency traders.",
+      "image": "https://cryptologos.cc/logos/banana-gun-banana-logo.png"
     }
   ]
 }
-
-
