@@ -28,7 +28,7 @@
       "name": "Dogecoin",
       "symbol": "DOGE",
       "description": "A meme-inspired cryptocurrency created for fun that is known for its large community and low-fee, fast transactions.",
-      "image": "https://raw.githubusercontent.com/dogecoin/dogecoin/master/share/pixmaps/dogecoin256.svg"
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/DOGE/dogecoin.png"
     },
     {
       "name": "Solana",
@@ -1262,3 +1262,4 @@
     }
   ]
 }
+
