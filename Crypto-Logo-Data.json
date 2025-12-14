@@ -1012,7 +1012,7 @@
       "name": "GUNZ",
       "symbol": "GUN",
       "description": "A Web3 gaming token powering blockchain-based shooter games and competitive esports platforms.",
-      "image": "https://assets.coingecko.com/coins/images/38521/large/gun.png"
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/GUNZ/gunz.jpg"
     },
     {
       "name": "SynFutures",
@@ -1259,7 +1259,390 @@
       "symbol": "BANANA",
       "description": "A Telegram trading bot token providing sniping, trading automation, and MEV protection for cryptocurrency traders.",
       "image": "https://cryptologos.cc/logos/banana-gun-banana-logo.png"
+    },
+    {
+      "name": "First Digital USD",
+      "symbol": "FDUSD",
+      "description": "A stablecoin pegged to the US Dollar on the Binance Smart Chain.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/FDUSD/fdusd.png"
+    },
+    {
+    "name": "Plasma",
+    "symbol": "XPL",
+    "description": "A decentralized blockchain platform focused on scalability and efficient transaction processing through plasma framework technology.",
+    "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/XPL/xpl.png"
+    },
+    {
+      "name": "Terra",
+      "symbol": "LUNA",
+      "description": "The native staking token of the Terra blockchain, designed to stabilize the price of the protocol's stablecoins through algorithmic mechanisms.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/LUNA/luna.png"
+    },
+    {
+      "name": "Aster",
+      "symbol": "ASTER",
+      "description": "A cryptocurrency project focused on providing decentralized infrastructure and services within the blockchain ecosystem.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ASTER/aster.png"
+    },
+    {
+      "name": "Giggle",
+      "symbol": "GIGGLE",
+      "description": "A meme-inspired cryptocurrency token designed for community engagement and entertainment within the crypto space.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/GIGGLE/giggle.png"
+    },
+    {
+      "name": "Pengu",
+      "symbol": "PENGU",
+      "description": "The official token of the Pudgy Penguins NFT ecosystem, connecting the community and providing utility across various platforms.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/PENGU/pengu.png"
+    },
+    {
+      "name": "Juventus Fan Token",
+      "symbol": "JUV",
+      "description": "A fan engagement token for Juventus Football Club, allowing holders to participate in club decisions and access exclusive rewards.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/JUV/juv.png"
+    },
+    {
+      "name": "Ethena",
+      "symbol": "ENA",
+      "description": "A synthetic dollar protocol that provides a crypto-native solution for money not reliant on traditional banking infrastructure.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ENA/ena.png"
+    },
+    {
+      "name": "Terra Classic",
+      "symbol": "LUNC",
+      "description": "The original Terra blockchain token after the network split, maintained by the community following the Terra ecosystem collapse.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/LUNC/lunc.png"
+    },
+    {
+      "name": "Tensor",
+      "symbol": "TNSR",
+      "description": "The governance token of Tensor, a leading NFT marketplace and trading platform on the Solana blockchain.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/TNSR/tnsr.png"
+    },
+    {
+      "name": "Loopring",
+      "symbol": "LRC",
+      "description": "An Ethereum Layer 2 scaling protocol utilizing zkRollup technology for fast, low-cost, and secure decentralized exchanges.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/LRC/lrc.png"
+    },
+    {
+      "name": "Ethena USDe",
+      "symbol": "USDE",
+      "description": "A synthetic dollar stablecoin created by Ethena Labs, backed by crypto assets and delta-hedging strategies.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/USDE/usde.png"
+    },
+    {
+      "name": "Somi",
+      "symbol": "SOMI",
+      "description": "A blockchain project focused on decentralized finance solutions and cross-chain interoperability.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SOMI/somi.png"
+    },
+    {
+      "name": "Tao",
+      "symbol": "TAO",
+      "description": "The native token of Bittensor, a decentralized machine learning network that rewards contributions to AI development.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/TAO/tao.png"
+    },
+    {
+      "name": "Hedera",
+      "symbol": "HBAR",
+      "description": "A public distributed ledger technology using hashgraph consensus for fast, fair, and secure decentralized applications.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/HBAR/hbar.png"
+    },
+    {
+      "name": "Fetch.ai",
+      "symbol": "FET",
+      "description": "An AI-powered blockchain platform enabling autonomous economic agents to perform complex tasks and transactions.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/FET/fet.png"
+    },
+    {
+      "name": "Bonk",
+      "symbol": "BONK",
+      "description": "A Solana-based meme coin created as a community-driven token to support the Solana ecosystem and DeFi projects.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/BONK/bonk.png"
+    },
+    {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "description": "The governance token of Arbitrum, an Ethereum Layer 2 scaling solution using optimistic rollups for faster and cheaper transactions.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ARB/arb.png"
+    },
+    {
+      "name": "Dogwifhat",
+      "symbol": "WIF",
+      "description": "A popular Solana-based meme coin featuring a dog wearing a hat, driven by community engagement and viral marketing.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/WIF/wif.png"
+    },
+    {
+      "name": "Turbo",
+      "symbol": "TURBO",
+      "description": "An AI-created meme coin experiment that became a community-driven project exploring the intersection of AI and cryptocurrency.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/TURBO/turbo.png"
+    },
+    {
+      "name": "Axelar",
+      "symbol": "AXL",
+      "description": "A decentralized interoperability network connecting blockchain ecosystems, enabling secure cross-chain communication and asset transfers.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/AXL/axl.png"
+    },
+    {
+      "name": "Euro Token",
+      "symbol": "EUR",
+      "description": "A stablecoin pegged to the Euro currency, providing a digital representation of EUR for blockchain transactions.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/EUR/eur.png"
+    },
+    {
+      "name": "Sei",
+      "symbol": "SEI",
+      "description": "A Layer 1 blockchain optimized for trading, offering the fastest time to finality and high throughput for DeFi applications.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SEI/sei.png"
+    },
+    {
+      "name": "Horizen",
+      "symbol": "ZEN",
+      "description": "A privacy-focused blockchain platform with a sidechain architecture enabling scalable and secure decentralized applications.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ZEN/zen.png"
+    },
+    {
+      "name": "USD1",
+      "symbol": "USD1",
+      "description": "A stablecoin designed to maintain a 1:1 peg with the US Dollar, providing stability for crypto transactions and DeFi protocols.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/USD1/usd1.png"
+    },
+    {
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "description": "A decentralized storage network that turns cloud storage into an algorithmic market, incentivizing data storage and retrieval.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/FIL/fil.png"
+    },
+    {
+      "name": "TerraClassicUSD",
+      "symbol": "USTC",
+      "description": "The original Terra USD algorithmic stablecoin, now maintained by the Terra Classic community after the network split.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/USTC/ustc.png"
+    },
+    {
+      "name": "Binance FUSD",
+      "symbol": "BFUSD",
+      "description": "A reward-bearing margin asset on Binance Futures that provides funding fee rewards to holders.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/BFUSD/bfusd.png"
+    },
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "description": "A Solana-based platform token for launching meme coins and facilitating community-driven token creation.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/PUMP/pump.png"
+    },
+    {
+      "name": "LayerZero",
+      "symbol": "ZRO",
+      "description": "An omnichain interoperability protocol enabling seamless communication between different blockchain networks.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ZRO/zro.png"
+    },
+    {
+      "name": "Hyper",
+      "symbol": "HYPER",
+      "description": "A blockchain gaming and virtual world platform token designed for metaverse applications and digital asset trading.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/HYPER/hyper.png"
+    },
+    {
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "description": "A blockchain protocol that aims to extend the internet's functionality by hosting smart contracts and decentralized applications at web speed.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ICP/icp.png"
+    },
+    {
+      "name": "Huma Finance",
+      "symbol": "HUMA",
+      "description": "A decentralized protocol for building next-generation financial infrastructure with PayFi applications and real-world asset tokenization.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/HUMA/huma.png"
+    },
+    {
+      "name": "MMT",
+      "symbol": "MMT",
+      "description": "A cryptocurrency token focused on decentralized finance applications and yield optimization strategies.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/MMT/mmt.png"
+    },
+    {
+      "name": "Saga",
+      "symbol": "SAGA",
+      "description": "A Layer 1 protocol for automatically launching parallel, application-specific blockchains that share security.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SAGA/saga.png"
+    },
+    {
+      "name": "Kadena",
+      "symbol": "KDA",
+      "description": "A proof-of-work blockchain featuring braided chains and Pact smart contract language for scalable and secure applications.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/KDA/kda.png"
+    },
+    {
+      "name": "AT",
+      "symbol": "AT",
+      "description": "A blockchain infrastructure token supporting decentralized applications and smart contract functionality.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/AT/at.png"
+    },
+    {
+      "name": "Starknet",
+      "symbol": "STRK",
+      "description": "A Layer 2 scaling solution for Ethereum using ZK-rollup technology to enable fast and low-cost transactions.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/STRK/strk.png"
+    },
+    {
+      "name": "Bard",
+      "symbol": "BARD",
+      "description": "A cryptocurrency project focused on creative content, NFT integration, and community-driven artistic endeavors.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/BARD/bard.png"
+    },
+    {
+      "name": "Kite",
+      "symbol": "KITE",
+      "description": "A DeFi protocol token offering innovative financial products and yield generation opportunities.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/KITE/kite.png"
+    },
+    {
+      "name": "Santos FC Fan Token",
+      "symbol": "SANTOS",
+      "description": "The official fan token of Santos FC, enabling supporters to engage with the club through voting and exclusive benefits.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SANTOS/santos.png"
+    },
+    {
+      "name": "GFX",
+      "symbol": "GFX",
+      "description": "A decentralized exchange protocol token focused on providing efficient trading and liquidity solutions.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/GFX/gfx.png"
+    },
+    {
+      "name": "BIO Protocol",
+      "symbol": "BIO",
+      "description": "A decentralized science platform token accelerating biotechnology research through decentralized funding and IP tokenization.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/BIO/bio.png"
+    },
+    {
+      "name": "Eigen",
+      "symbol": "EIGEN",
+      "description": "The native token of EigenLayer, a protocol for restaking on Ethereum to secure additional services and earn rewards.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/EIGEN/eigen.png"
+    },
+    {
+      "name": "Optimism",
+      "symbol": "OP",
+      "description": "A Layer 2 scaling solution for Ethereum using optimistic rollups to reduce transaction costs while maintaining security.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/OP/op.png"
+    },
+    {
+      "name": "Syrup",
+      "symbol": "SYRUP",
+      "description": "A yield farming token providing liquidity incentives and staking rewards within DeFi protocols.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SYRUP/syrup.png"
+    },
+    {
+      "name": "IO.net",
+      "symbol": "IO",
+      "description": "A decentralized GPU network providing distributed computing power for AI and machine learning applications.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/IO/io.png"
+    },
+    {
+      "name": "Stellar",
+      "symbol": "XLM",
+      "description": "An open-source blockchain network for cross-border payments and asset tokenization, connecting financial institutions globally.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/XLM/xlm.png"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "POL",
+      "description": "The ecosystem token of Polygon (formerly MATIC), a scaling solution providing faster and cheaper Ethereum transactions.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/POL/pol.png"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "description": "An ERC-20 token backed 1:1 with Bitcoin, enabling BTC to be used on the Ethereum blockchain and DeFi protocols.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/WBTC/wbtc.png"
+    },
+    {
+      "name": "Manchester City Fan Token",
+      "symbol": "CITY",
+      "description": "The official fan token of Manchester City FC, allowing supporters to influence club decisions and access exclusive rewards.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/CITY/city.png"
+    },
+    {
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "description": "The governance token of Curve Finance, a decentralized exchange optimized for stablecoin trading with low slippage.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/CRV/crv.png"
+    },
+    {
+      "name": "Scroll",
+      "symbol": "SCR",
+      "description": "A zkEVM Layer 2 scaling solution for Ethereum providing EVM-equivalent zero-knowledge rollups.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SCR/scr.png"
+    },
+    {
+      "name": "Basic Attention Token",
+      "symbol": "BAT",
+      "description": "A utility token integrated with the Brave browser, rewarding users for viewing privacy-respecting advertisements.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/BAT/bat.png"
+    },
+    {
+      "name": "Allo",
+      "symbol": "ALLO",
+      "description": "A decentralized protocol for capital allocation and grant distribution supporting public goods funding.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ALLO/allo.png"
+    },
+    {
+      "name": "Virtual Protocol",
+      "symbol": "VIRTUAL",
+      "description": "A token powering AI-driven virtual agents and decentralized applications in the metaverse ecosystem.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/VIRTUAL/virtual.png"
+    },
+    {
+      "name": "Sahara",
+      "symbol": "SAHARA",
+      "description": "A blockchain-based AI platform token enabling decentralized AI model training and data marketplace functionality.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/SAHARA/sahara.png"
+    },
+    {
+      "name": "VeChain",
+      "symbol": "VET",
+      "description": "An enterprise-focused blockchain platform for supply chain management and business process enhancement.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/VET/vet.png"
+    },
+    {
+      "name": "Algorand",
+      "symbol": "ALGO",
+      "description": "A pure proof-of-stake blockchain designed for speed, security, and decentralization, supporting smart contracts and DeFi.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ALGO/algo.png"
+    },
+    {
+      "name": "Floki",
+      "symbol": "FLOKI",
+      "description": "A community-driven meme coin inspired by Elon Musk's dog, building a metaverse game and DeFi ecosystem.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/FLOKI/floki.png"
+    },
+    {
+      "name": "0G",
+      "symbol": "0G",
+      "description": "A modular AI blockchain providing infinite scalability for decentralized AI applications and data availability.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/0G/0g.png"
+    },
+    {
+      "name": "Ether.fi",
+      "symbol": "ETHFI",
+      "description": "A decentralized staking protocol offering liquid staking solutions and restaking opportunities on Ethereum.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ETHFI/ethfi.png"
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "description": "An institutional-grade decentralized finance protocol tokenizing real-world assets and providing yield-bearing products.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ONDO/ondo.png"
+    },
+    {
+      "name": "Act I: The AI Prophecy",
+      "symbol": "ACT",
+      "description": "An AI-themed meme coin exploring the narrative of artificial intelligence and its role in the cryptocurrency ecosystem.",
+      "image": "https://raw.githubusercontent.com/Nadishan-Danthanarayana/Crypto-Currency-Images/refs/heads/main/ACT/act.png"
     }
   ]
 }
-
